@@ -9,8 +9,8 @@ const randomColor = () => {
     return col;
 }
 
-function changeRandomCol(){
+function changeRandomColo(){
     document.body.style.backgroundColor = randomColor();
 }
 
-btn.addEventListener('click', changeRandomCol);
+btn.addEventListener('click', changeRandomColo);
