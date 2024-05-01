@@ -1,4 +1,4 @@
-# Random-Back-Ground-Color changer by using Javascript
+# Random-BackGround-Color changer by using Javascript
 
 ## Live Web-site Link
 
