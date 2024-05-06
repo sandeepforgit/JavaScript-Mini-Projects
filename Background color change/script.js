@@ -1,4 +1,4 @@
-const btn = document.getElementById("button");
+const btn = document.getElementById("butn");
 
 const randomColor = () => {
     let hex = "123456789ABCDEF";
